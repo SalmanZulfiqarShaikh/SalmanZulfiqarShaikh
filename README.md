@@ -18,8 +18,7 @@
 - 🔭 I’m currently working on **building modern, responsive web and mobile apps**  
 - 🌱 Learning **advanced patterns & modern dev workflows**  
 - 👨‍💻 All of my projects are available at **[github.com/salmanzulfiqarshaikh](https://github.com/salmanzulfiqarshaikh)**  
-- 📫 How to reach me **salmanzulfiqar04@gmail.com**  
-- ⚡ I believe **coffee + code = happiness**  
+- 📫 How to reach me **salmanzulfiqar04@gmail.com**   
 
 <!-- Social Links -->
 <h3 align="left">Connect with me:</h3>
@@ -30,7 +29,7 @@
 </p>
 
 <!-- Languages & Tools -->
-<h3 align="left">Languages & Tools (in order):</h3>
+<h3 align="left">Languages & Tools:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
