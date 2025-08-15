@@ -14,10 +14,10 @@
 </p>
 
 - 🔭 I’m currently working on **building modern, responsive web and mobile apps**
-- 🌱 I’m currently learning **advanced patterns & modern dev workflows**
+- 🌱 Learning **advanced patterns & modern dev workflows**
 - 👨‍💻 All of my projects are available at **https://github.com/salmanzulfiqarshaikh**
 - 📫 How to reach me **salmanzulfiqar04@gmail.com**
-- ⚡ Fun fact **coffee + code = happiness**
+- ⚡ I believe **coffee + code = happiness**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
