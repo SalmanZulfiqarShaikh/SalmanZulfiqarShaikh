@@ -12,7 +12,6 @@
 - 📫 How to reach me **salmanzulfiqar04@gmail.com**  
 - 👔 Open to **working opportunities**
 
-
 <!-- Social Links -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,6 +37,7 @@
   <a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/></a>
   <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" style="filter: invert(1); background:#ffffff; border-radius:6px; padding:4px;" /></a>
   <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://wordpress.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" width="40" height="40"/></a>
 </p>
 
 <!-- Stats -->
