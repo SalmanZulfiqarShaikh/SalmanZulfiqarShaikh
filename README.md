@@ -3,22 +3,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=900&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Salman+Zulfiqar;Full-Stack+Web+%26+App+Developer+in+the+making;CS+Undergrad+%40+UBIT%2C+University+of+Karachi" alt="Typing SVG" />
 </div>
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=salmanzulfiqarshaikh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<!-- Trophies -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=salmanzulfiqarshaikh&theme=algolia&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-</p>
-
+<!-- About Me -->
+- 🎓 Pursuing **BSCS at UBIT, University of Karachi**  
 - 🔭 I’m currently working on **building modern, responsive web and mobile apps**  
-- 🌱 Learning **advanced patterns & modern dev workflows**  
+- 🌱 Learning **advanced patterns, AI-driven workflows & agentic technologies**  
 - 👨‍💻 All of my projects are available at **[github.com/salmanzulfiqarshaikh](https://github.com/salmanzulfiqarshaikh)**  
-- 📫 How to reach me **salmanzulfiqar04@gmail.com**   
+- 🏢 Available for **freelance projects**  
+- 📫 How to reach me **salmanzulfiqar04@gmail.com**  
+- 👔 Open to **working opportunities**
+
 
 <!-- Social Links -->
 <h3 align="left">Connect with me:</h3>
@@ -58,4 +51,3 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=salmanzulfiqarshaikh&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
-
