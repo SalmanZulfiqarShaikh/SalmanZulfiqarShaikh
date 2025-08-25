@@ -35,8 +35,9 @@
   <a href="https://tailwindcss.com/">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/>
   </a>
+  <!-- n8n official logo with text -->
   <a href="https://n8n.io/">
-    <img src="https://dashboardicons.com/icons/n8n-io.png" width="40" height="40" alt="n8n"/>
+    <img src="https://seeklogo.com/images/N/n8n-logo_png-transparent.svg" width="40" height="40" alt="n8n logo with text"/>
   </a>
   <a href="https://www.typescriptlang.org">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
@@ -47,13 +48,15 @@
   <a href="https://redux.js.org">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/>
   </a>
+  <!-- Bright blue WordPress circular logo -->
   <a href="https://wordpress.org/">
-    <img src="https://toppng.com/uploads/preview/wordpress-logo-png-479177.png" width="40" height="40" alt="WordPress"/>
+    <img src="https://toppng.com/free-image/wordpress-logo-png-PNG-free-PNG-Images_479193" width="40" height="40" alt="WordPress blue logo"/>
   </a>
   <a href="https://getbootstrap.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40" alt="Bootstrap"/>
   </a>
 </p>
+
 
 
 
