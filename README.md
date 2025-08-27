@@ -23,39 +23,52 @@
 <!-- Languages & Tools -->
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
+  <!-- HTML -->
   <a href="https://developer.mozilla.org/docs/Web/HTML">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML"/>
   </a>
+  <!-- CSS -->
   <a href="https://developer.mozilla.org/docs/Web/CSS">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS"/>
   </a>
+  <!-- JavaScript -->
   <a href="https://developer.mozilla.org/docs/Web/JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   </a>
+  <!-- React -->
+  <a href="https://react.dev/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  </a>
+  <!-- Tailwind -->
   <a href="https://tailwindcss.com/">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/>
   </a>
-  <!-- n8n official logo with text -->
-   <a href="https://n8n.io" target="_blank" rel="noreferrer"> 
-    <img src="https://n8n.io/favicon.ico" alt="n8n" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  </a>
-  <a href="https://git-scm.com">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
-  </a>
+  <!-- Redux -->
   <a href="https://redux.js.org">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/>
   </a>
-  <!-- Bright blue WordPress circular logo -->
-  <a href="https://wordpress.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/> 
-  </a> 
+  <!-- n8n -->
+  <a href="https://n8n.io" target="_blank" rel="noreferrer">
+    <img src="https://n8n.io/favicon.ico" alt="n8n" width="40" height="40"/>
+  </a>
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+  </a>
+  <!-- Git -->
+  <a href="https://git-scm.com">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
+  </a>
+  <!-- WordPress -->
+  <a href="https://wordpress.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" width="40" height="40" alt="WordPress"/>
+  </a>
+  <!-- Bootstrap -->
   <a href="https://getbootstrap.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40" alt="Bootstrap"/>
   </a>
 </p>
+
 
 
 
