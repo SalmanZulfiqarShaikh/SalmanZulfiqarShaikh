@@ -1,6 +1,6 @@
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=900&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Salman+Zulfiqar;Full-Stack+Web+%26+App+Developer+in+the+making;CS+Undergrad+%40+UBIT%2C+University+of+Karachi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=900&center=true&vCenter=true&width=750&lines=Hi,+I'm+Salman+Zulfiqar;Full-Stack+Web+%26+App+Developer+in+the+making;CS+Undergrad+%40+UBIT%2C+University+of+Karachi;AI+Enthusiast" alt="Typing SVG" />
 </div>
 
 <!-- About Me -->
