@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at **[github.com/salmanzulfiqarshaikh](https://github.com/salmanzulfiqarshaikh)**  
 - 🏢 Available for **freelance projects**  
 - 📫 How to reach me **salmanzulfiqar04@gmail.com**  
-- 👔 Open to **working opportunities**
+- 👔 Open to **working opportunities rn**
 
 <!-- Social Links -->
 <h3 align="left">Connect with me:</h3>
