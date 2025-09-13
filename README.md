@@ -35,6 +35,10 @@
   <a href="https://developer.mozilla.org/docs/Web/JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   </a>
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+  </a>
   <!-- React -->
   <a href="https://react.dev/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
@@ -47,25 +51,25 @@
   <a href="https://redux.js.org">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/>
   </a>
-  <!-- n8n -->
-  <a href="https://n8n.io" target="_blank" rel="noreferrer">
-    <img src="https://n8n.io/favicon.ico" alt="n8n" width="40" height="40"/>
-  </a>
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  </a>
   <!-- Git -->
   <a href="https://git-scm.com">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
   </a>
-  <!-- WordPress -->
-  <a href="https://wordpress.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" width="40" height="40" alt="WordPress"/>
+  <!-- Appwrite -->
+  <a href="https://appwrite.io" target="_blank" rel="noreferrer">
+    <img src="https://appwrite.io/assets/logos/appwrite.svg" width="40" height="40" alt="Appwrite"/>
+  </a>
+  <!-- n8n -->
+  <a href="https://n8n.io" target="_blank" rel="noreferrer">
+    <img src="https://n8n.io/favicon.ico" alt="n8n" width="40" height="40"/>
   </a>
   <!-- Bootstrap -->
   <a href="https://getbootstrap.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40" alt="Bootstrap"/>
+  </a>
+  <!-- WordPress -->
+  <a href="https://wordpress.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" width="40" height="40" alt="WordPress"/>
   </a>
 </p>
 
