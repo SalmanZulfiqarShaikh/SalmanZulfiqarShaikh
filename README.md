@@ -57,8 +57,9 @@
   </a>
   <!-- Appwrite -->
 <a href="https://appwrite.io" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/appwrite/brand/main/assets/appwrite/appwrite-icon-gradient.svg" width="40" height="40" alt="Appwrite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" width="40" height="40" alt="Appwrite"/>
 </a>
+
 
   <!-- n8n -->
   <a href="https://n8n.io" target="_blank" rel="noreferrer">
