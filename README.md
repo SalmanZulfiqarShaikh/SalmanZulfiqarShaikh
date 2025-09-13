@@ -56,9 +56,10 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
   </a>
   <!-- Appwrite -->
-  <a href="https://appwrite.io" target="_blank" rel="noreferrer">
-    <img src="https://appwrite.io/assets/logos/appwrite.svg" width="40" height="40" alt="Appwrite"/>
-  </a>
+<a href="https://appwrite.io" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/appwrite/brand/main/assets/appwrite/appwrite-icon-gradient.svg" width="40" height="40" alt="Appwrite"/>
+</a>
+
   <!-- n8n -->
   <a href="https://n8n.io" target="_blank" rel="noreferrer">
     <img src="https://n8n.io/favicon.ico" alt="n8n" width="40" height="40"/>
