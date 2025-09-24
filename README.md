@@ -35,10 +35,6 @@
   <a href="https://developer.mozilla.org/docs/Web/JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   </a>
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  </a>
   <!-- React -->
   <a href="https://react.dev/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
@@ -46,10 +42,6 @@
   <!-- Tailwind -->
   <a href="https://tailwindcss.com/">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/>
-  </a>
-  <!-- Figma -->
-  <a href="https://www.figma.com/">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
   </a>
   <!-- Redux -->
   <a href="https://redux.js.org">
