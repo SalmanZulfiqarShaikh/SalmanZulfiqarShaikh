@@ -43,10 +43,6 @@
   <a href="https://tailwindcss.com/">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/>
   </a>
-  <!-- Redux -->
-  <a href="https://redux.js.org">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/>
-  </a>
   <!-- Git -->
   <a href="https://git-scm.com">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
@@ -56,11 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" width="40" height="40" alt="Appwrite"/>
 </a>
 
-
-  <!-- n8n -->
-  <a href="https://n8n.io" target="_blank" rel="noreferrer">
-    <img src="https://n8n.io/favicon.ico" alt="n8n" width="40" height="40"/>
-  </a>
   <!-- Bootstrap -->
   <a href="https://getbootstrap.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40" alt="Bootstrap"/>
