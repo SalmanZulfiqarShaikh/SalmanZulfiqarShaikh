@@ -71,6 +71,10 @@
   <a href="https://n8n.io/" target="_blank">
     <img src="https://logo.svgcdn.com/simple-icons/n8n-dark.svg" width="50" height="50" alt="n8n"/>
   </a>
+  <a href="https://git-scm.com/" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="50" height="50" alt="Git"/>
+</a>
+
   <!-- Appwrite -->
   <a href="https://appwrite.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" width="50" height="50" alt="Appwrite"/>
