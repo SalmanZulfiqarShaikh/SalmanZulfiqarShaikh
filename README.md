@@ -69,7 +69,7 @@
   </a>
   <!-- n8n -->
   <a href="https://n8n.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/docs/n8n-icon-color.svg" width="50" height="50" alt="n8n"/>
+    <img src="https://logo.svgcdn.com/simple-icons/n8n-dark.svg" width="50" height="50" alt="n8n"/>
   </a>
   <!-- Appwrite -->
   <a href="https://appwrite.io/" target="_blank">
