@@ -35,17 +35,9 @@
   <a href="https://www.java.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
   </a>
-  <!-- Next.js -->
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js"/>
-  </a>
   <!-- React -->
   <a href="https://react.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="React"/>
-  </a>
-  <!-- Express.js -->
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="Express.js"/>
   </a>
   <!-- Tailwind CSS -->
   <a href="https://tailwindcss.com/" target="_blank">
@@ -55,26 +47,10 @@
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap"/>
   </a>
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/>
-  </a>
   <!-- Firebase -->
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="50" height="50" alt="Firebase"/>
   </a>
-  <!-- Node.js -->
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
-  </a>
-  <!-- n8n -->
-  <a href="https://n8n.io/" target="_blank">
-    <img src="https://logo.svgcdn.com/simple-icons/n8n-dark.svg" width="50" height="50" alt="n8n"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="50" height="50" alt="Git"/>
-</a>
-
   <!-- Appwrite -->
   <a href="https://appwrite.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" width="50" height="50" alt="Appwrite"/>
