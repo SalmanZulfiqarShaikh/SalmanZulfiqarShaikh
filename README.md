@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=650&lines=Learning.+Coding.+Building.;Adapting+Modern+Workflows;Always+Curious" alt="Typing SVG" />
 </p>
 
-
 ---
 
 ### 🧠 About Me
@@ -55,7 +54,7 @@
 
 <p align="center">
 
-  <!-- Portfolio (unique design, not Firefox) -->
+  <!-- Portfolio -->
   <a href="https://salmanzulfi.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
@@ -79,16 +78,11 @@
 
 ---
 
-### 🐍 GitHub Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salmanzulfiqarshaikh&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
----
-
-### 🔥 GitHub Streak
+### 🔥 Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanzulfiqarshaikh&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salmanzulfiqarshaikh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanzulfiqarshaikh&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
