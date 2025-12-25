@@ -65,7 +65,6 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salmanzulfiqarshaikh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanzulfiqarshaikh&theme=tokyonight" alt="GitHub Streak" />
 </p>
