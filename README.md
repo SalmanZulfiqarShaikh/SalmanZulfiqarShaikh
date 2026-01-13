@@ -70,9 +70,9 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salmanzulfiqarshaikh&theme=tokyonight" alt="Salman's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salmanzulfiqarshaikh&bg_color=000000&color=0075ff&line=0075ff&point=ffffff&area=true&hide_border=true" alt="Salman's Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanzulfiqarshaikh&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanzulfiqarshaikh&background=000000&ring=0075ff&currStreakLabel=0075ff&fire=0075ff&border=000000" alt="GitHub Streak" />
 </p>
