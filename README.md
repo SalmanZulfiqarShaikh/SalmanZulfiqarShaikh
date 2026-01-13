@@ -33,4 +33,46 @@
 <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
 
 **Frontend** <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
+
+**Other Tools** <img src="https://img.shields.io/badge/n8n-FF6D00?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+
+  <a href="https://salmanzulfi.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/salmanzulf86556" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+
+  <a href="https://pk.linkedin.com/in/salmanzulfiqarshaikh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/salmanzulfiqar_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salmanzulfiqarshaikh&bg_color=000000&color=0075ff&line=0075ff&point=ffffff&area=true&hide_border=true" alt="Salman's Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanzulfiqarshaikh&background=000000&ring=0075ff&currStreakLabel=0075ff&fire=0075ff&border=000000" alt="GitHub Streak" />
+</p>
