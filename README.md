@@ -27,7 +27,7 @@
 
 **Backend**
 
-<p><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-404040?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/ChromaDB-E85D04?style=flat-square&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Pinecone-430098?style=flat-square&logo=pinecone&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-404040?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /></p>
 
 **Frontend**
 
@@ -36,6 +36,10 @@
 **AI & Automation**
 
 <p><img src="https://img.shields.io/badge/n8n-FF6D00?style=flat-square&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/LangGraph-2D6A4F?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/Claude%20Code-CC785C?style=flat-square&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/VAPI-5B21B6?style=flat-square&logo=webrtc&logoColor=white" /> <img src="https://img.shields.io/badge/CrewAI-EF4444?style=flat-square&logo=airflow&logoColor=white" /> <img src="https://img.shields.io/badge/ElevenLabs-111827?style=flat-square&logo=audiomack&logoColor=white" /> <img src="https://img.shields.io/badge/Deepgram-101827?style=flat-square&logo=deepgram&logoColor=white" /> <img src="https://img.shields.io/badge/Antigravity-6D28D9?style=flat-square&logo=cursor&logoColor=white" /> <img src="https://img.shields.io/badge/OpenClaw-0EA5E9?style=flat-square&logo=openai&logoColor=white" /></p>
+
+**Databases**
+
+<p><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/ChromaDB-E85D04?style=flat-square&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Pinecone-430098?style=flat-square&logo=pinecone&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></p>
 
 **Tools**
 
