@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer · Voice Agents · Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=700&lines=Making+Powerful+Solutions.;Voice+Agents+%7C+Full+Stack+Products+%7C+AI+Workflows;Production+Ready+%E2%80%94+not+just+demos.;The+learning+never+stops." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=700&lines=Making+Powerful+Solutions.;Voice+Agents+%7C+Full+Stack+Products+%7C+AI+Workflows;The+learning+never+stops." alt="Typing SVG" />
 </p>
 
 ---
@@ -10,9 +10,9 @@
 ### 🧠 About Me
 
 <ul>
-  <li>🤖 Building <b>Voice Agents, scalable web applications, and autonomous AI systems</b> that run in production — not just demos.</li>
+  <li>🤖 Building <b>Voice Agents, scalable web applications, and autonomous AI systems</b></li>
   <li>🚀 Worked with <b>Shark Tank Pakistan winners, YC-level founders,</b> and multiple clients across AI automation, full-stack products, and intelligent workflows.</li>
-  <li>⚡ <b>SWE Intern @ eOcean</b> — shipping AI-driven applications and agentic systems in a real engineering environment.</li>
+  <li>⚡ <b>SWE Intern @ eOcean</b> - shipping AI-driven applications and agentic systems in a real engineering environment.</li>
   <li>🎓 Pursuing <b>BSCS at UBIT, University of Karachi</b></li>
   <li>📫 <b>salmanzulfiqar04@gmail.com</b></li>
 </ul>
